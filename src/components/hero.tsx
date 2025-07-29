@@ -10,7 +10,7 @@ const Hero = () => {
         {/* Left Section (Text) */}
         <div className="flex-1 text-center lg:text-left space-y-6 m-1">
           <h2 className="text-3xl sm:text-4xl font-bold leading-snug">
-            Hello,
+            Hello
             <br />
             I'm{" "}
             <span className="text-[#535806] text-2xl sm:text-3xl">
