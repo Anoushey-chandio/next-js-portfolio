@@ -66,12 +66,15 @@ Fill out the form below.I’ll get back to you shortly.
           </div>
 
           {/* ✅ Styled Send Button */}
-          <button
-            type="submit"
-            className="bg-gradient-to-r from-[#4f5242] to-[#6b6e5a] text-white px-8 py-3 rounded-full shadow-lg hover:scale-105 hover:shadow-xl transition-all duration-300 font-semibold tracking-wide"
+         <div className="text-center">
+  <button
+    type="submit"
+    className="inline-block bg-[#d3d498ad]  px-8 py-3 hover:bg-[#d3d498] text-[#23241f] rounded-2xl shadow-md font-mono transition duration-300"
           >
-            🚀 Send Message
-          </button>
+    🚀 Send Message
+  </button>
+</div>
+
         </form>
       </div>
 
